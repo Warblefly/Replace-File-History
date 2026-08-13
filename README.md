@@ -9,6 +9,10 @@ This applies when it works. As of August 1st 2026, the facility began silently f
 
 A replacement was necessary, and this is it.
 
+Simply ensure your Windows Libraries (editable through File Explorer) contain all the folders you want backed-up.
+
 You can run this Powershell script straight from your Powershell command line, and the only parameter it MUST have is -BackupRoot.
+
+The next alteration will be enabling this script to run as a service, backing up files at regular intervals.
 
 john@johnwarburton.net
