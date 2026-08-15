@@ -13,6 +13,6 @@ Simply ensure your Windows Libraries (editable through File Explorer) contain al
 
 You can run this Powershell script straight from your Powershell command line, and the only parameter it MUST have is -BackupRoot.
 
-The next alteration will be enabling this script to run as a service, backing up files at regular intervals.
+An example configuration for Windows Task Scheduler is included. Note that this is from my local machine, and is configured to run as a named local user. You will undoubtedly wish to change this to match your own user ID.
 
 john@johnwarburton.net
