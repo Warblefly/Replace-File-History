@@ -13,6 +13,8 @@ Simply ensure your Windows Libraries (editable through File Explorer) contain al
 
 You can run this Powershell script straight from your Powershell command line, and the only parameter it MUST have is -BackupRoot.
 
+You could install this in C:\ProgramData\RobocopyLibraryBackup.
+
 An example configuration for Windows Task Scheduler is included. Note that this is from my local machine, and is configured to run as a named local user. You will undoubtedly wish to change this to match your own user ID.
 
 john@johnwarburton.net
